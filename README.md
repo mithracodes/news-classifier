@@ -1,7 +1,5 @@
 # news-classifier
 
-This is my submission for ***Assignment 1 of COMP20008 Elements of Data Processing in Sem 1 2022***.
-
 ## Overview
 
 This project aims to identify credible health-related news sources from a dataset of 1,000+ news articles, reviews, and tweets. Using natural language processing techniques like sentiment analysis, topic modeling, and named entity recognition, it analyzes linguistic patterns to distinguish good and bad news sources. By comparing different news outlets based on their reporting accuracy, it further provides insights into credible and trustworthy health-related news sources. This is particularly important as false or misleading health-related news can have severe consequences. The results can benefit journalists, policy makers, and researchers who rely on accurate information.
@@ -133,3 +131,5 @@ The `task7()` function in `task7.py` implements the following tasks:
 4. Outputs a csv file called `task7a.csv` with the following headings: `word, log_odds_ratio`. Each row represents a word in the vocabulary and the log odds ratio for fake news of that word. The value of `log_odds_ratio` is rounded to 5 digits from the decimal point. The entries in `task7a.csv` are in ascending order of word.
 5. Outputs a file called `task7b.png` which contains an appropriately chosen graph, showing the distribution of the log odds ratios for all words.
 6. Outputs a file called `task7c.png` which contains an appropriately chosen graph, showing the top 15 words with the highest odds ratios for fake news, and the top 15 words with the lowest odds ratios.
+
+***Note: This is my submission for *Assignment 1 of COMP20008 Elements of Data Processing in Sem 1 2022*. ***

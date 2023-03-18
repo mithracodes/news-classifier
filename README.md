@@ -28,7 +28,7 @@ To run each task, open the terminal and execute the command `python main.py task
 
 ### Loading Data (Task 1)
 
-The program includes a function called task1() which can be found in task1.py. When executed, the function outputs a JSON file called task1.json in the following format:
+The program includes a function called `task1()` which can be found in `task1.py`. When executed, the function outputs a JSON file called `task1.json` in the following format:
 
 ```powershell
 {
@@ -44,7 +44,7 @@ Here, `X` represents the total number of news articles, `Y` represents the total
 
 The reviews contain an ID field called `news_id` corresponding to the ID of the news article that helps in matching the review with the news article.
 
-The function task2() which can be found in task2.py, when executed combines the articles with their reviews to work out how many “satisfactory” ratings that article receives, out of a total of 10 criteria. The output of this function is saved to a CSV file called task2.csv which contains the following headings: `news_id, news_title, review_title, rating, num_satisfactory`.
+The function `task2()` which can be found in `task2.py`, when executed combines the articles with their reviews to work out how many “satisfactory” ratings that article receives, out of a total of 10 criteria. The output of this function is saved to a CSV file called `task2.csv` which contains the following headings: `news_id, news_title, review_title, rating, num_satisfactory`.
 
 Each row in the file contains the details of one article, where:
 

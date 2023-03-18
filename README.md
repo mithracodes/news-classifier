@@ -132,4 +132,4 @@ The `task7()` function in `task7.py` implements the following tasks:
 5. Outputs a file called `task7b.png` which contains an appropriately chosen graph, showing the distribution of the log odds ratios for all words.
 6. Outputs a file called `task7c.png` which contains an appropriately chosen graph, showing the top 15 words with the highest odds ratios for fake news, and the top 15 words with the lowest odds ratios.
 
-**Note: This is my submission for *Assignment 1 of COMP20008 Elements of Data Processing in Sem 1 2022*. **
+** Note: This is my submission for *Assignment 1 of COMP20008 Elements of Data Processing in Sem 1 2022*. **
